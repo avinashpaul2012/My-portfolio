@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Avinash Paul</title>
+    <link>https://github.com/avinashpaul2012/Avi_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Avinash Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/avinashpaul2012/Avi_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Monocular depth Estimation</title>
+      <link>https://github.com/avinashpaul2012/Avi_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 05 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/avinashpaul2012/Avi_Portfolio/post/project-1/</guid>
+      <description>Getting a 3D view of the environment greatly helps in scene understanding and navigation. Estimating depth is something that comes to us naturally due to our stereo vision and our prior learning of the depth of the world around us. We use our inbuilt stereo vision for building a 3D view of the world around us. Finding depth is however, a difficult problem computationally.
+Finding depth from a single image or Monocular Depth Estimation (MDE) is an ill-posed problem given a number of scenes can have the same depth image.</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Master Jacques Coppenole</title>
+      <link>https://github.com/avinashpaul2012/Avi_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://github.com/avinashpaul2012/Avi_Portfolio/post/project-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+  </channel>
+</rss>

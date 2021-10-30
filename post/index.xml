@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Avinash Paul</title>
+    <link>https://avinashpaul2012.github.io/My-portfolio/post/</link>
+    <description>Recent content in Projects on Avinash Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://avinashpaul2012.github.io/My-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Automatic Detection and Classication of Colonic Polyp using deep learning</title>
+      <link>https://avinashpaul2012.github.io/My-portfolio/post/project-3/</link>
+      <pubDate>Sun, 11 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://avinashpaul2012.github.io/My-portfolio/post/project-3/</guid>
+      <description>Colorectal cancer (CRC) in its advanced stage is one of the leading causes of death worldwide. However, early detection of polyps which are the precursor to such cancer can lead to better prognosis and clinical management. This report proposes an automated diagnostic technique to detect, localize, and classify polyps in colonoscopy video frames. Manual detection and localization of polyps on hugely acquired colonic frames have many limitations. Our deep learning-based framework proposes an attention-based YOLOv4 detector for polyp detection and localization.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: A Data-efficient Classifier using GAN</title>
+      <link>https://avinashpaul2012.github.io/My-portfolio/post/project-2/</link>
+      <pubDate>Tue, 10 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://avinashpaul2012.github.io/My-portfolio/post/project-2/</guid>
+      <description>Visual examination of polyps requires detail analysis by a skilled physician. Features like polyp color, shape and texture vary greatly in polyps. Thus, colonoscopy data is both difficult to acquire and annotating polyps is a cumbersome process. To address this issue of limited labeled data in endoscopic images, a semi-supervised classifier using generative adversarial network (GAN) is implemented here.
+Generative adversarial networks (GANs) are algorithmic architectures that use two neural networks, pitting one against the other (thus the &amp;ldquo;adversarial&amp;rdquo;) in order to generate new, synthetic instances of data that can pass for real data.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Monocular depth Estimation</title>
+      <link>https://avinashpaul2012.github.io/My-portfolio/post/project-1/</link>
+      <pubDate>Sun, 05 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://avinashpaul2012.github.io/My-portfolio/post/project-1/</guid>
+      <description>Getting a 3D view of the environment greatly helps in scene understanding and navigation. Estimating depth is something that comes to us naturally due to our stereo vision and our prior learning of the depth of the world around us. We use our inbuilt stereo vision for building a 3D view of the world around us. Finding depth is however, a difficult problem computationally.
+Finding depth from a single image or Monocular Depth Estimation (MDE) is an ill-posed problem given a number of scenes can have the same depth image.</description>
+    </item>
+    
+  </channel>
+</rss>

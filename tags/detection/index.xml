@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Detection on Avinash Paul</title>
+    <link>https://avinashpaul2012.github.io/My-portfolio/tags/detection/</link>
+    <description>Recent content in Detection on Avinash Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jul 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://avinashpaul2012.github.io/My-portfolio/tags/detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Automatic Detection and Classication of Colonic Polyp using deep learning</title>
+      <link>https://avinashpaul2012.github.io/My-portfolio/post/project-3/</link>
+      <pubDate>Sun, 11 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://avinashpaul2012.github.io/My-portfolio/post/project-3/</guid>
+      <description>Colorectal cancer (CRC) in its advanced stage is one of the leading causes of death worldwide. However, early detection of polyps which are the precursor to such cancer can lead to better prognosis and clinical management. This report proposes an automated diagnostic technique to detect, localize, and classify polyps in colonoscopy video frames. Manual detection and localization of polyps on hugely acquired colonic frames have many limitations. Our deep learning-based framework proposes an attention-based YOLOv4 detector for polyp detection and localization.</description>
+    </item>
+    
+  </channel>
+</rss>
